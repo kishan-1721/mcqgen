@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+Who coined the term 'machine learning'?,a: Donald Hebb | b: Arthur Samuel | c: Walter Pitts | d: Warren McCulloch,b
+What was the earliest machine learning model introduced by Arthur Samuel?,a: Program for calculating winning chance in checkers | b: Program for analyzing sonar signals | c: Program for recognizing characters | d: Program for classifying moles,a
+Who proposed the early mathematical models of neural networks?,a: Donald Hebb | b: Arthur Samuel | c: Walter Pitts | d: Warren McCulloch,c
+What is the formal definition of machine learning provided by Tom M. Mitchell?,a: A computer program learns from experience | b: A computer program can think like a human | c: A computer program can do what humans can do | d: A computer program improves its performance with experience,d
+What are the two objectives of modern-day machine learning?,a: To analyze sonar signals and speech patterns | b: To classify data and make predictions | c: To recognize characters and classify moles | d: To improve performance and learn from experience,b
