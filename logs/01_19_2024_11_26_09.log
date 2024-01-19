@@ -1,0 +1,2 @@
+[2024-01-19 11:26:40,828] 976 openai._base_client - INFO - Retrying request to /chat/completions in 0.792899 seconds
+[2024-01-19 11:26:43,232] 1027 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
