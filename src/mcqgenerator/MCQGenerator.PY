@@ -13,7 +13,8 @@ from langchain.chains import LLMChain
 from langchain.chains import SequentialChain
 # from langchain.callbacks import get_openai_callback
 from langchain_community.callbacks import get_openai_callback
-# Load environment variables from the .env file
+
+# # Load environment variables from the .env file
 load_dotenv()
 
 # Access the environment variables just like you would with os.environ
